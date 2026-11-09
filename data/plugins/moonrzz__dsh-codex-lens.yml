@@ -1,0 +1,7 @@
+url: https://github.com/moonrzz/dsh-codex-lens
+name: moonrzz/dsh-codex-lens
+category: ui
+description:
+  en: Codex Lens is a right-sidebar panel for DeepSeek Harness that browses Codex threads, binds one to the current DSH session, and reads its history, live rollout activity, workspace files and turn statistics, so you can ask about the work from the main chat.
+  zh: DSH 右侧栏的 Codex 透镜：浏览 Codex 线程、把一条线程绑定到当前会话，读取历史、实时活动、工作区文件与轮次统计，并能在主对话里追问它的工作。
+icon: https://raw.githubusercontent.com/moonrzz/dsh-codex-lens/main/docs/icon.png
